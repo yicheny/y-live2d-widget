@@ -1,6 +1,6 @@
 {
   "name": "y-live2d-widget",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "react live-2d",
   "main": "lib/index.js",
   "scripts": {
