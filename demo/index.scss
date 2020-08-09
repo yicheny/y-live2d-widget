@@ -1,0 +1,17 @@
+body{
+  margin:0;
+  display: flex;
+  justify-content: center;
+}
+
+#app{
+  margin:16px;
+  padding:16px 32px;
+  width:1200px;
+  border-radius: 4px;
+  box-shadow: 0 0 7px #6a737d;
+}
+
+p{
+  margin:6px 0;
+}
